@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm João Gabriel Pancheski</h1>
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **GameDev**
 
 - 💬 My pronouns are he/him
-
-- 📫 How to reach me: **jgabrielpancheski@gmail.com**
 
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/joaogabrielpancheski/)
 
